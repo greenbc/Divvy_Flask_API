@@ -1,0 +1,5 @@
+.vscode
+takehome-env
+__pycache__
+migrations
+.env
